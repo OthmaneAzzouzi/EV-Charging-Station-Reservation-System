@@ -1,6 +1,6 @@
 # EV Charging Station Reservation System
 
-This project is a C++ application that manages reservations for electric vehicle charging stations. The program uses binary search trees to efficiently manage reservations for electric charging stations based on power, location, and time. It supports various commands, including creating charging stations, finding available stations based on location and power, and reserving stations for a given time period.
+This project is a C++ application that manages reservations for electric vehicle charging stations. The program uses AVL trees to efficiently manage reservations for electric charging stations based on power, location, and time. It supports various commands, including creating charging stations, finding available stations based on location and power, and reserving stations for a given time period.
 
 # Compilation
 
